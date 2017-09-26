@@ -1,0 +1,23 @@
+{
+  "name": "atlanticbootcamp-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgoraBinaria/atlanticbootcamp-site.git"
+  },
+  "author": {
+    "name": "Agora Binaria",
+    "email": "albertobasalo@agorabinaria.com",
+    "url": "http://agorabinaria.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgoraBinaria/atlanticbootcamp-site/issues"
+  },
+  "homepage": "https://github.com/AgoraBinaria/atlanticbootcamp-site#readme"
+}
